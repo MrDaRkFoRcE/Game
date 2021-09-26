@@ -1,3 +1,6 @@
+#Programmer : MrDaRkFoRcE
+#Telegram : @ThE_DaRkFoRcE
+
 import random
 rand = random.randint(0, 100)
 a = 1
